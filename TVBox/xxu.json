@@ -39,6 +39,7 @@
     {"key":"csp_biubiu_火火影视","name":"🥈火火影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hub.fastgit.xyz/xx03253/Freed/raw/master/TVBox/MaooXB2/火火影视.json"},
 
 ## XPath系列
+    {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.fastgit.xyz/xx03253/Freed/raw/master/TVBox/MaooXP/bidid.json"},
     {"key":"csp_xpath_ddg","name":"🥈达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.fastgit.xyz/xx03253/Freed/raw/master/TVBox/MaooXP/dadagui.json"},
     {"key":"csp_xpath_jbb","name":"🥈剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.fastgit.xyz/xx03253/Freed/raw/master/TVBox/MaooXP/jubaibai.json"},
     {"key":"csp_xpath_Jumi","name":"🥈剧迷TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.fastgit.xyz/xx03253/Freed/raw/master/TVBox/MaooXP/Jumi.json"},
