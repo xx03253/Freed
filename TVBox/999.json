@@ -19,6 +19,7 @@
       "api": "https://www.leyuzyapi.com/inc/apijson_vod.php?ac=list",
       "searchable": 1,
       "quickSearch": 1,
+      "pwd": "321",
       "filterable": 0
     },
     {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
@@ -29,6 +30,7 @@
       "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
+      "pwd": "123",
       "filterable": 0
     },
     {
@@ -38,6 +40,7 @@
       "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
+      "pwd": "666",
       "filterable": 0
     },
     {
